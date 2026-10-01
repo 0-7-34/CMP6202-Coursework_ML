@@ -1,2 +1,16 @@
-# CMP6202-Coursework_ML
-Coursework for the Artificial Intelligence (A.I) and Machine Learning module (ML). Designing, implementing, evaluating and communicating AI/ ML solutions for a range of different computational problems.
+# CMP6202 Practice Repository
+
+## Project aim
+This repository contains my CMP6202 AI and Machine Learning practice work.
+
+## Week 1
+- Loaded the Iris dataset
+- Identified features and target
+- Trained a first Decision Tree classifier
+- Evaluated the model using accuracy and a confusion matrix
+
+## Tools
+- Python
+- Pandas
+- scikit-learn
+- Matplotlib
